@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Fullstack Engineer"
+  short_description: "Java web, data, MQ, schedulers, and DevOps"
+  default_prompt: "Use $java-fullstack-engineer to implement Java/Spring Boot web, data, MQ, scheduler, SSH/SFTP, Docker, or K8s work with clean structure, validation, tests, and version-control hygiene."
